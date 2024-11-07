@@ -847,7 +847,7 @@ APPEND INITIAL LINE TO r_linea-error_alert ASSIGNING FIELD-SYMBOL(<error>).
 
       WHEN 'GEN'.
         CLEAR: gt_log.
-        BREAK abap06.
+*        BREAK abap06.
 
         IF lt_sel IS NOT INITIAL.
           lt_row = lt_sel->get_selected_rows( ).
@@ -939,7 +939,7 @@ APPEND INITIAL LINE TO r_linea-error_alert ASSIGNING FIELD-SYMBOL(<error>).
 *    CHECK sy-uname EQ 'ABAP06'.
 
     DATA lo_payload_protocol TYPE REF TO if_wsprotocol_payload. "payload Interface
-    BREAK abap06.
+*    BREAK abap06.
 
     DATA(lt_items)  = im_header->get_items( ).
     DATA(ls_header) = im_header->get_data( ).
