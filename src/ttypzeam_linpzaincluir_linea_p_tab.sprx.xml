@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SPRX" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROXY_HEADER>
+    <item>
+     <OBJECT>TTYP</OBJECT>
+     <OBJ_NAME>ZEAM_LINPZAINCLUIR_LINEA_P_TAB</OBJ_NAME>
+     <OBJECT_M>TABL</OBJECT_M>
+     <OBJ_NAME_M>ZEAM_LINPZAINCLUIR_LINEA_PIE31</OBJ_NAME_M>
+     <HASH_ID>05E8A7CAA4BBA0D6093BE6363788F807C7280E76</HASH_ID>
+     <ID>TableOf&lt;type&gt; ErrorAlert &lt;element&gt; ErrorAlert &lt;type&gt; IncluirLineaPiezaOCResponse &lt;message&gt; IncluirLineaPiezaOCResponse http://www.pronaca.com//SAP_IncluirLineaPiezaOC/ http://www.pronaca.com//SAP_IncluirLineaPiezaOC/</ID>
+     <IFR_TYPE>TableOftype</IFR_TYPE>
+     <IFR_NAME>ErrorAlert</IFR_NAME>
+     <IFR_NSPCE>http://www.pronaca.com//SAP_IncluirLineaPiezaOC/</IFR_NSPCE>
+     <IFR_GNSPCE>http://www.pronaca.com//SAP_IncluirLineaPiezaOC/</IFR_GNSPCE>
+     <GEN_VERS>0005</GEN_VERS>
+     <PREFIX>ZEAM_LINPZA</PREFIX>
+     <CATEGORY>ifmtypedef</CATEGORY>
+     <GEN_APPL>WEBSERVICES</GEN_APPL>
+    </item>
+   </PROXY_HEADER>
+   <PROXY_DATA>
+    <item>
+     <OBJECT>TTYP</OBJECT>
+     <OBJ_NAME>ZEAM_LINPZAINCLUIR_LINEA_P_TAB</OBJ_NAME>
+     <OBJECT1>TTYP</OBJECT1>
+     <OBJ_NAME1>ZEAM_LINPZAINCLUIR_LINEA_P_TAB</OBJ_NAME1>
+     <OBJECT2>TTYP</OBJECT2>
+     <OBJ_NAME2>ZEAM_LINPZAINCLUIR_LINEA_P_TAB</OBJ_NAME2>
+     <OBJECT_R>TABL</OBJECT_R>
+     <OBJ_NAME_R>ZEAM_LINPZAINCLUIR_LINEA_PIE25</OBJ_NAME_R>
+     <ID>TableOf&lt;type&gt; ErrorAlert &lt;element&gt; ErrorAlert &lt;type&gt; IncluirLineaPiezaOCResponse &lt;message&gt; IncluirLineaPiezaOCResponse http://www.pronaca.com//SAP_IncluirLineaPiezaOC/ http://www.pronaca.com//SAP_IncluirLineaPiezaOC/</ID>
+     <IFR_TYPE>TableOftype</IFR_TYPE>
+     <IFR_NAME>ErrorAlert</IFR_NAME>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TTYP</R3_TYPE>
+     <R3_NAME>ZEAM_LINPZAINCLUIR_LINEA_P_TAB</R3_NAME>
+     <R3_TEXT>Proxy Table Type (generated)</R3_TEXT>
+     <CATEGORY>ifmtypedef</CATEGORY>
+    </item>
+   </PROXY_DATA>
+  </asx:values>
+ </asx:abap>
+</abapGit>

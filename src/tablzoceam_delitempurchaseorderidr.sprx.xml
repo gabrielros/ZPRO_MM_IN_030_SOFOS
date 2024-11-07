@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SPRX" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROXY_HEADER>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZOCEAM_DELITEMPURCHASEORDERIDR</OBJ_NAME>
+     <OBJECT_M>TABL</OBJECT_M>
+     <OBJ_NAME_M>ZOCEAM_DELITEMPURCHASEORDERIDR</OBJ_NAME_M>
+     <HASH_ID>204AD7F458169941756445170ACC600F5F05038E</HASH_ID>
+     <ID>&lt;type&gt; PURCHASEORDERIDResponseType http://www.pronaca.com/SAP_CancelarLineaPiezaServicioOC/ http://www.pronaca.com/SAP_CancelarLineaPiezaServicioOC/</ID>
+     <IFR_GLOBAL>X</IFR_GLOBAL>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>PURCHASEORDERIDResponseType</IFR_NAME>
+     <IFR_NSPCE>http://www.pronaca.com/SAP_CancelarLineaPiezaServicioOC/</IFR_NSPCE>
+     <IFR_GNSPCE>http://www.pronaca.com/SAP_CancelarLineaPiezaServicioOC/</IFR_GNSPCE>
+     <GEN_VERS>0005</GEN_VERS>
+     <PREFIX>ZOCEAM_DELITEM</PREFIX>
+     <CATEGORY>ifmtypedef</CATEGORY>
+     <GEN_APPL>WEBSERVICES</GEN_APPL>
+     <X-ML_NSPCE>http://www.pronaca.com/SAP_CancelarLineaPiezaServicioOC/</X-ML_NSPCE>
+     <X-ML_NAME>PURCHASEORDERIDResponseType</X-ML_NAME>
+    </item>
+   </PROXY_HEADER>
+   <PROXY_DATA>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZOCEAM_DELITEMPURCHASEORDERIDR</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>DESCRIPTION</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>DESCRIPTION</OBJ_NAME2>
+     <ID>&lt;element&gt; DESCRIPTION &lt;type&gt; PURCHASEORDERIDResponseType http://www.pronaca.com/SAP_CancelarLineaPiezaServicioOC/ http://www.pronaca.com/SAP_CancelarLineaPiezaServicioOC/</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>DESCRIPTION</IFR_NAME>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_OPTNL>X</IFR_OPTNL>
+     <IFR_XSDTYP>string</IFR_XSDTYP>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>DESCRIPTION</R3_NAME>
+     <R3_DATATYP>STRG</R3_DATATYP>
+     <R3_SEQNUM>000003</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZOCEAM_DELITEMPURCHASEORDERIDR</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>ORGANIZATIONID</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>ORGANIZATIONID</OBJ_NAME2>
+     <OBJECT_R>TABL</OBJECT_R>
+     <OBJ_NAME_R>ZOCEAM_DELITEMORGANIZATIONIDRE</OBJ_NAME_R>
+     <ID>&lt;element&gt; ORGANIZATIONID &lt;type&gt; PURCHASEORDERIDResponseType http://www.pronaca.com/SAP_CancelarLineaPiezaServicioOC/ http://www.pronaca.com/SAP_CancelarLineaPiezaServicioOC/</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>ORGANIZATIONID</IFR_NAME>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_OPTNL>X</IFR_OPTNL>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>ORGANIZATIONID</R3_NAME>
+     <R3_SEQNUM>000002</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZOCEAM_DELITEMPURCHASEORDERIDR</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>PURCHASEORDERCODE</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>PURCHASEORDERCODE</OBJ_NAME2>
+     <ID>&lt;element&gt; PURCHASEORDERCODE &lt;type&gt; PURCHASEORDERIDResponseType http://www.pronaca.com/SAP_CancelarLineaPiezaServicioOC/ http://www.pronaca.com/SAP_CancelarLineaPiezaServicioOC/</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>PURCHASEORDERCODE</IFR_NAME>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_OPTNL>X</IFR_OPTNL>
+     <IFR_XSDTYP>string</IFR_XSDTYP>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>PURCHASEORDERCODE</R3_NAME>
+     <R3_DATATYP>STRG</R3_DATATYP>
+     <R3_SEQNUM>000001</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZOCEAM_DELITEMPURCHASEORDERIDR</OBJ_NAME>
+     <OBJECT1>TABL</OBJECT1>
+     <OBJ_NAME1>ZOCEAM_DELITEMPURCHASEORDERIDR</OBJ_NAME1>
+     <OBJECT2>TABL</OBJECT2>
+     <OBJ_NAME2>ZOCEAM_DELITEMPURCHASEORDERIDR</OBJ_NAME2>
+     <ID>&lt;type&gt; PURCHASEORDERIDResponseType http://www.pronaca.com/SAP_CancelarLineaPiezaServicioOC/ http://www.pronaca.com/SAP_CancelarLineaPiezaServicioOC/</ID>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>PURCHASEORDERIDResponseType</IFR_NAME>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TABL</R3_TYPE>
+     <R3_NAME>ZOCEAM_DELITEMPURCHASEORDERIDR</R3_NAME>
+     <R3_TEXT>Proxy Structure (generated)</R3_TEXT>
+     <CATEGORY>ifmtypedef</CATEGORY>
+    </item>
+   </PROXY_DATA>
+  </asx:values>
+ </asx:abap>
+</abapGit>

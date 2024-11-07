@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SPRX" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROXY_HEADER>
+    <item>
+     <OBJECT>TTYP</OBJECT>
+     <OBJ_NAME>ZEAM_LINSERERROR_ALERT_TYP_TAB</OBJ_NAME>
+     <OBJECT_M>TTYP</OBJECT_M>
+     <OBJ_NAME_M>ZEAM_LINSERERROR_ALERT_TYP_TAB</OBJ_NAME_M>
+     <HASH_ID>289502861E91F9F7D76F1D36F0CAF0C82B69D6A8</HASH_ID>
+     <ID>TableOf&lt;type&gt; ErrorAlertTYPE http://www.pronaca.com/SAP_IncluirLineaServicioOC/ http://www.pronaca.com/SAP_IncluirLineaServicioOC/</ID>
+     <IFR_GLOBAL>X</IFR_GLOBAL>
+     <IFR_TYPE>TableOftype</IFR_TYPE>
+     <IFR_NAME>ErrorAlertTYPE</IFR_NAME>
+     <IFR_NSPCE>http://www.pronaca.com/SAP_IncluirLineaServicioOC/</IFR_NSPCE>
+     <IFR_GNSPCE>http://www.pronaca.com/SAP_IncluirLineaServicioOC/</IFR_GNSPCE>
+     <GEN_VERS>0005</GEN_VERS>
+     <PREFIX>ZEAM_LINSER</PREFIX>
+     <CATEGORY>ifmtypedef</CATEGORY>
+     <GEN_APPL>WEBSERVICES</GEN_APPL>
+    </item>
+   </PROXY_HEADER>
+   <PROXY_DATA>
+    <item>
+     <OBJECT>TTYP</OBJECT>
+     <OBJ_NAME>ZEAM_LINSERERROR_ALERT_TYP_TAB</OBJ_NAME>
+     <OBJECT1>TTYP</OBJECT1>
+     <OBJ_NAME1>ZEAM_LINSERERROR_ALERT_TYP_TAB</OBJ_NAME1>
+     <OBJECT2>TTYP</OBJECT2>
+     <OBJ_NAME2>ZEAM_LINSERERROR_ALERT_TYP_TAB</OBJ_NAME2>
+     <OBJECT_R>TABL</OBJECT_R>
+     <OBJ_NAME_R>ZEAM_LINSERERROR_ALERT_TYPE</OBJ_NAME_R>
+     <ID>TableOf&lt;type&gt; ErrorAlertTYPE http://www.pronaca.com/SAP_IncluirLineaServicioOC/ http://www.pronaca.com/SAP_IncluirLineaServicioOC/</ID>
+     <IFR_TYPE>TableOftype</IFR_TYPE>
+     <IFR_NAME>ErrorAlertTYPE</IFR_NAME>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TTYP</R3_TYPE>
+     <R3_NAME>ZEAM_LINSERERROR_ALERT_TYP_TAB</R3_NAME>
+     <R3_TEXT>Proxy Table Type (generated)</R3_TEXT>
+     <CATEGORY>ifmtypedef</CATEGORY>
+    </item>
+   </PROXY_DATA>
+  </asx:values>
+ </asx:abap>
+</abapGit>

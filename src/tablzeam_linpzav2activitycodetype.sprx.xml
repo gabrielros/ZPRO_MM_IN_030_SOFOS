@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SPRX" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROXY_HEADER>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZEAM_LINPZAV2ACTIVITYCODETYPE</OBJ_NAME>
+     <OBJECT_M>TABL</OBJECT_M>
+     <OBJ_NAME_M>ZEAM_LINPZAV2ACTIVITYCODETYPE</OBJ_NAME_M>
+     <HASH_ID>3355163141B0F1D1851D4CDAB9564726ED1EF4FC</HASH_ID>
+     <ID>&lt;type&gt; ACTIVITYCODETYPE http://www.pronaca.com/SAP_IncluirLineaPiezaOC/ http://www.pronaca.com/SAP_IncluirLineaPiezaOC/</ID>
+     <IFR_GLOBAL>X</IFR_GLOBAL>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>ACTIVITYCODETYPE</IFR_NAME>
+     <IFR_NSPCE>http://www.pronaca.com/SAP_IncluirLineaPiezaOC/</IFR_NSPCE>
+     <IFR_GNSPCE>http://www.pronaca.com/SAP_IncluirLineaPiezaOC/</IFR_GNSPCE>
+     <GEN_VERS>0005</GEN_VERS>
+     <PREFIX>ZEAM_LINPZAV2</PREFIX>
+     <CATEGORY>ifmtypedef</CATEGORY>
+     <GEN_APPL>WEBSERVICES</GEN_APPL>
+     <X-ML_NSPCE>http://www.pronaca.com/SAP_IncluirLineaPiezaOC/</X-ML_NSPCE>
+     <X-ML_NAME>ACTIVITYCODETYPE</X-ML_NAME>
+    </item>
+   </PROXY_HEADER>
+   <PROXY_DATA>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZEAM_LINPZAV2ACTIVITYCODETYPE</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>AUTO_GENERATED</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>AUTO_GENERATED</OBJ_NAME2>
+     <ID>&lt;element&gt; auto_generated &lt;type&gt; ACTIVITYCODETYPE http://www.pronaca.com/SAP_IncluirLineaPiezaOC/ http://www.pronaca.com/SAP_IncluirLineaPiezaOC/</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>auto_generated</IFR_NAME>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MINOCC>1</IFR_MINOCC>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_XSDTYP>string</IFR_XSDTYP>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>AUTO_GENERATED</R3_NAME>
+     <R3_DATATYP>STRG</R3_DATATYP>
+     <R3_SEQNUM>000002</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZEAM_LINPZAV2ACTIVITYCODETYPE</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>VALUE</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>VALUE</OBJ_NAME2>
+     <ID>&lt;element&gt; value &lt;type&gt; ACTIVITYCODETYPE http://www.pronaca.com/SAP_IncluirLineaPiezaOC/ http://www.pronaca.com/SAP_IncluirLineaPiezaOC/</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>value</IFR_NAME>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MINOCC>1</IFR_MINOCC>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_XSDTYP>string</IFR_XSDTYP>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>VALUE</R3_NAME>
+     <R3_DATATYP>STRG</R3_DATATYP>
+     <R3_SEQNUM>000001</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZEAM_LINPZAV2ACTIVITYCODETYPE</OBJ_NAME>
+     <OBJECT1>TABL</OBJECT1>
+     <OBJ_NAME1>ZEAM_LINPZAV2ACTIVITYCODETYPE</OBJ_NAME1>
+     <OBJECT2>TABL</OBJECT2>
+     <OBJ_NAME2>ZEAM_LINPZAV2ACTIVITYCODETYPE</OBJ_NAME2>
+     <ID>&lt;type&gt; ACTIVITYCODETYPE http://www.pronaca.com/SAP_IncluirLineaPiezaOC/ http://www.pronaca.com/SAP_IncluirLineaPiezaOC/</ID>
+     <IFR_TYPE>type</IFR_TYPE>
+     <IFR_NAME>ACTIVITYCODETYPE</IFR_NAME>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TABL</R3_TYPE>
+     <R3_NAME>ZEAM_LINPZAV2ACTIVITYCODETYPE</R3_NAME>
+     <R3_TEXT>Proxy Structure (generated)</R3_TEXT>
+     <CATEGORY>ifmtypedef</CATEGORY>
+    </item>
+   </PROXY_DATA>
+  </asx:values>
+ </asx:abap>
+</abapGit>
